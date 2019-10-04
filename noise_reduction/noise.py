@@ -218,7 +218,7 @@ sample files:
     05_ambeint.m4a
     06_office.m4a
 ------------------------------------'''
-samples = ['gilbert.m4a', 'recording.wav', 'musketeers.mp3']
+samples = ['recording.wav', 'musketeers.mp3']
 
 for s in samples:
     # reading a file
